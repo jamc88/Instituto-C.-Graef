@@ -1,33 +1,33 @@
 Estado,Abreviatura,Regiones,Mujeres,Hombres,No_esp,Total
- Aguascalientes,AG,Centro-norte,13225,13730,0,26955
- Baja California,BC,Norte,30576,31263,1,61840
- Baja California Sur,BS,Norte-occidente,6220,6353,0,12573
- Campeche,CM,Sur,8356,8678,0,17034
- Coahuila de Zaragoza,CO,Norte,28775,29618,0,58393
- Colima,CL,Centro-norte,5823,5933,0,11756
- Chiapas,CS,Sur,64582,67052,4,131638
- Chihuahua,CH,Norte,31061,32414,0,63475
- CDMX,CX,Centro,58906,60321,0,119227
- Durango,DG,Norte-occidente,18535,19362,0,37897
- Guanajuato,GT,Centro,57593,58935,3,116531
- Guerrero,GR,Sur,39068,40176,0,79244
- Hidalgo,HG,Centro,24948,25307,0,50255
- Jalisco,JC,Centro-norte,74417,77533,0,151950
- Mexico,EM,Centro,140744,145460,0,286204
- Michoacan,MI,Centro-norte,46638,48649,0,95287
- Morelos,MO,Centro,16274,16885,0,33159
- Nayarit,NA,Norte-occidente,10550,11138,0,21688
- Nuevo Leon,NL,Norte,43975,45140,0,89115
- Oaxaca,OA,Sur,38821,39852,0,78673
- Puebla,PU,Centro,67433,68838,0,136271
- Queretaro,QT,Centro,19351,20049,0,39400
- Quintana Roo,QR,Sur,14508,14926,8,29442
- San Luis Potosi,SL,Centro-norte,24044,24649,0,48693
- Sinaloa,SI,Norte-occidente,25446,26404,0,51850
- Sonora,SO,Norte,22549,23402,0,45951
- Tabasco,TB,Sur,23978,24747,0,48725
- Tamaulipas,TM,Norte,28446,28836,0,57282
- Tlaxcala,TL,Centro,13192,13397,0,26589
- Veracruz,VE,Sur,62107,64516,0,126623
- Yucatan,YU,Sur,17100,17917,0,35017
- Zacatecas,ZA,Norte-occidente,17104,17356,0,34460
+ Aguascalientes,AG,Noreste,13225,13730,0,26955
+ Baja California,BC,Noroeste,30576,31263,1,61840
+ Baja California Sur,BS,Noroeste,6220,6353,0,12573
+ Campeche,CM,Sureste,8356,8678,0,17034
+ Coahuila de Zaragoza,CO,Noreste,28775,29618,0,58393
+ Colima,CL,Occidente,5823,5933,0,11756
+ Chiapas,CS,Sureste,64582,67052,4,131638
+ Chihuahua,CH,Noroeste,31061,32414,0,63475
+ CDMX,CX,Centro-Sur,58906,60321,0,119227
+ Durango,DG,Noroeste,18535,19362,0,37897
+ Guanajuato,GT,Noreste,57593,58935,3,116531
+ Guerrero,GR,Centro-Sur,39068,40176,0,79244
+ Hidalgo,HG,Occidente,24948,25307,0,50255
+ Jalisco,JC,Noroeste,74417,77533,0,151950
+ Mexico,EM,Occidente,140744,145460,0,286204
+ Michoacan,MI,Occidente,46638,48649,0,95287
+ Morelos,MO,Centro-Sur,16274,16885,0,33159
+ Nayarit,NA,Noroeste,10550,11138,0,21688
+ Nuevo Leon,NL,Noreste,43975,45140,0,89115
+ Oaxaca,OA,Sureste,38821,39852,0,78673
+ Puebla,PU,Centro-Sur,67433,68838,0,136271
+ Queretaro,QT,Noreste,19351,20049,0,39400
+ Quintana Roo,QR,Sureste,14508,14926,8,29442
+ San Luis Potosi,SL,Noreste,24044,24649,0,48693
+ Sinaloa,SI,Noroeste,25446,26404,0,51850
+ Sonora,SO,Noroeste,22549,23402,0,45951
+ Tabasco,TB,Sureste,23978,24747,0,48725
+ Tamaulipas,TM,Noreste,28446,28836,0,57282
+ Tlaxcala,TL,Centro-Sur,13192,13397,0,26589
+ Veracruz,VE,Sureste,62107,64516,0,126623
+ Yucatan,YU,Sureste,17100,17917,0,35017
+ Zacatecas,ZA,Noreste,17104,17356,0,34460
